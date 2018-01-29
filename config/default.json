@@ -1,0 +1,5 @@
+{
+    "dbUrl": "mongodb://soulposion:soulposion@localhost:32768/admin",
+    "listenHost": "0.0.0.0",
+    "listenPort": 8808
+}

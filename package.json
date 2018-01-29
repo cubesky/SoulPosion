@@ -1,0 +1,23 @@
+{
+  "name": "soulpoison",
+  "version": "1.0.0",
+  "description": "Soul Poison API",
+  "main": "index.js",
+  "repository": "https://github.com/cubesky/SoulPosion",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "Soul",
+    "Poison"
+  ],
+  "author": "CubeSky",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "boom": "^7.1.1",
+    "config": "^1.29.2",
+    "hapi": "^17.2.0",
+    "hapi-mongodb": "^7.1.0",
+    "mongodb": "^3.0.1"
+  }
+}
