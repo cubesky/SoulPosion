@@ -1,1 +1,1 @@
-{content:"努力不一定成功，但不努力一定很轻松", author: "未知", source: "网络"}
+{content:"鍔姏涓嶄竴瀹氭垚鍔燂紝浣嗕笉鍔姏涓�瀹氬緢杞绘澗", author: "鏈煡", source: "缃戠粶"}
