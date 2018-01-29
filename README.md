@@ -29,5 +29,18 @@ URL `/write`  
 
 即可导入，本质为 `document.write()`
 
+# 向仓库贡献毒鸡汤
+
+## Git 方式（推荐）
+ * fork 本仓库并 clone 切换到 data 分支
+ * 创建一个你的文件
+ * 每行一个毒鸡汤，格式为 `{"content":"正文", "author": "作者", "source": "来源"}`
+ * 提交到自己的 `data` 分支，创建一个 `Pull Request`
+
+## Issue 方式
+ * 创建一个 Issue
+ * 每行一个毒鸡汤，格式为 `{"content":"正文", "author": "作者", "source": "来源"}`
+ * 我会尽可能的将 Issue 转为 data 分支上的文件
+
 # 协议
 GPL-3.0
