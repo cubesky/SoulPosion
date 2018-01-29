@@ -9,11 +9,14 @@
 # HTTP API
 ## 文本模式
 URL `/text`  
+
 仅返回正文本体
 
 ## JSON 模式
-URL `json`  
+URL `/json`  
+
 返回 JSON  
+
 ```json
 {"content":"正文", "author": "作者", "source": "来源"}
 ```
@@ -22,7 +25,9 @@ URL `json`  
 
 ## Write 模式
 URL `/write`  
+
 返回一个 `Content-Type` 为 `application/javascript` 的回应，直接使用  
+
 ```html
 <script src="https://example.com/write"></script>
 ```
