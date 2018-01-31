@@ -14,16 +14,16 @@
 { "content" : "上帝为你关上一扇门的时候还会顺手帮你把窗户也关上。", "source" : "网络", "author" : "未知"}
 { "content" : "长得好看的才叫吃货，长得不好看的那叫饭桶！", "source" : "网络", "author" : "未知"}
 { "content" : "你努力做到最好，还不如别人随便搞搞。", "source" : "网络", "author" : "未知"}
-{ "content" : "上帝为你关上一道防盗门，还会顺手给你上了一把钛合金锁。", "source" : "网络", "author" : "未知"}
+{ "content" : "上帝为你关上一道防盗门，还会顺手给你上了一把钛合金锁。", "source" : "知乎", "author" : "BugFucker"}
 { "content" : "懒是一个很好的托辞，说的好像你勤奋了就能干成大事一样。", "source" : "网络", "author" : "未知"}
 { "content" : "回首往事，我发现自己失去了很多宝贵的东西。但我并不难过，因为我知道，以后会失去的更多。 ", "source" : "网络", "author" : "未知"}
 { "content" : "出卖自己的灵魂和原则并不丢人，丢人的是没能卖一个好价钱。", "source" : "网络", "author" : "未知"}
 { "content" : "吃得苦中苦 心里会更堵", "source" : "网络", "author" : "未知"}
 { "content" : "竹子用了4年的时间， 仅仅长了3cm， 在第五年开始，却以每天30cm的速度疯狂的生长， 仅仅用了六周的时间就长到了15米。其实，在前面的四年， 竹子将根在土壤里延伸了数百平米， 做人做事亦是如此， 不要担心你此时此刻的付出得不到回报， 因为这些付出都是为了扎根，厚积薄发。Where There is a Will There is a Way，所以不要浮躁，每天做好自己，努力扎根，努力成长，不要轻言放弃，总有一天，你会知道原来自己是个土豆。", "source" : "知乎", "author" : "沧海之水i"}
-{ "content" : "傻人有傻福，但是傻逼没有。", "source" : "网络", "author" : "未知"}
-{ "content" : "你这么努力，忍受了那么多寂寞和痛苦。可也没见得你有多优秀啊！", "source" : "网络", "author" : "未知"}
-{ "content" : "失败是成功之母，可惜成功六亲不认。", "source" : "网络", "author" : "未知"}
-{ "content" : "每当我找到成功的钥匙，就发现有人把锁芯给换了。", "source" : "网络", "author" : "未知"}
-{ "content" : "注重细节，从小事做起，因为你根本做不了大事。", "source" : "网络", "author" : "未知"}
-{ "content" : "你无法叫醒一个不回你消息的人，但是红包能。", "source" : "网络", "author" : "未知"}
+{ "content" : "傻人有傻福，但是傻逼没有。", "source" : "知乎", "author" : "柃枫"}
+{ "content" : "你这么努力，忍受了那么多寂寞和痛苦。可也没见得你有多优秀啊！", "source" : "知乎", "author" : "BugFucker"}
+{ "content" : "失败是成功之母，可惜成功六亲不认。", "source" : "知乎", "author" : "BugFucker"}
+{ "content" : "每当我找到成功的钥匙，就发现有人把锁芯给换了。", "source" : "知乎", "author" : "BugFucker"}
+{ "content" : "注重细节，从小事做起，因为你根本做不了大事。", "source" : "知乎", "author" : "BugFucker"}
+{ "content" : "你无法叫醒一个不回你消息的人，但是红包能。", "source" : "知乎", "author" : "BugFucker"}
 { "content" : "努力不一定成功，但不努力一定很轻松", "author" : "未知", "source" : "网络"}
