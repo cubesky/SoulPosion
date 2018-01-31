@@ -6,10 +6,10 @@
 {"content":"人生苦痛的一大来源，是毕生想要被他人了解的渴望。", "author": "超人不会飞", "source": "知乎"}
 {"content":"天下就没有偶然，那不过是化了妆的、戴了面具的必然。", "author": "钱钟书", "source": "围城"}
 {"content":"你知道~就算大雨让这座城市颠倒~~公司照样会算你迟到~", "author": "BugFucker", "source": "知乎"}
-{"content":"爱笑的女生运气不会太差。说实话，如果一个女生运气一直不好，我不知道她怎么笑得出来。", "BugFucker", "source": "知乎"}
-{"content":"努力不一定会成功，但是不努力一定会很舒服哦！", "BugFucker", "source": "知乎"}
-{"content":"万不要以为高中单身仅仅是因为学校禁止早恋", "BugFucker", "source": "知乎"}
-{"content":"岁月是把杀猪刀是针对那些长得好看的说的,对于那些丑的,岁月拿他们一点办法也没有…", "BugFucker", "source": "知乎"}
+{"content":"爱笑的女生运气不会太差。说实话，如果一个女生运气一直不好，我不知道她怎么笑得出来。", "author": "BugFucker", "source": "知乎"}
+{"content":"努力不一定会成功，但是不努力一定会很舒服哦！", "author": "BugFucker", "source": "知乎"}
+{"content":"万不要以为高中单身仅仅是因为学校禁止早恋", "author": "BugFucker", "source": "知乎"}
+{"content":"岁月是把杀猪刀是针对那些长得好看的说的,对于那些丑的,岁月拿他们一点办法也没有…", "author": "BugFucker", "source": "知乎"}
 {"content":"你死不放手的样子特别丑。", "author": "BugFucker", "source": "知乎"}
 {"content":"抱歉，有钱是真的能为所欲为的。", "author": "未知", "source": "读心神探"}
 {"content":"只要坚持，每一个困难都能克服我", "author": "王小七", "source": "知乎"}
