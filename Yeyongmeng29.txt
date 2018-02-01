@@ -1,3 +1,5 @@
 {"content":"No, your addiction's not a crime. It's just a smaller part of who. You want to become in the end ", "author": "Tristam", "source": "Tristam - Crave"}
 
 {"content":" 绝对不会输的唯一方法，那就是不要战斗。", "author": "《乒乓》", "source": "《乒乓》"}
+
+{"content":" 灵魂已出窍，躯体有何用。", "author": "《黑客帝国》", "source": "《黑客帝国》"}  
