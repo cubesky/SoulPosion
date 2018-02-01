@@ -34,7 +34,27 @@ const launchServer = async function() {
         method: 'GET',
         path: '/',
         handler: async function(request,reply) {
-            return 'Welcome to Soul Posion'
+            return `
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>心灵毒鸡汤 API</title>
+</head>
+<body>
+<h1>心灵毒鸡汤</h1>
+<hr>
+<h2>文本 API <small>https://soulposion.utilapi.bid/text</small></h2>
+<p>文本 API 只返回毒鸡汤本身，不返回其他数据。</p>
+<hr>
+<h2>脚本 API <small>https://soulposion.utilapi.bid/write</small></h2>
+<p>脚本 API 返回一段 Javascript ，本质是 document.write </p>
+<hr>
+<h2>JSON API <small>https://soulposion.utilapi.bid/json</small></h2>
+<p>JSON API 返回完整的结构，支持 JSONP 调用，JSONP 调用方式为在地址后加上 ?callback= </p>
+</body>
+</html>
+            `
         }
     });
 
