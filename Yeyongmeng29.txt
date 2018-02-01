@@ -1,5 +1,10 @@
 {"content":"No, your addiction's not a crime. It's just a smaller part of who. You want to become in the end ", "author": "Tristam", "source": "Tristam - Crave"}
 
-{"content":" 绝对不会输的唯一方法，那就是不要战斗。", "author": "《乒乓》", "source": "《乒乓》"}
+{"content":" 绝对不会输的唯一方法，那就是不要战斗。", "author": "乒乓", "source": "乒乓"}
 
-{"content":" 灵魂已出窍，躯体有何用。", "author": "《黑客帝国》", "source": "《黑客帝国》"}  
+{"content":" 灵魂已出窍，躯体有何用。", "author": "黑客帝国", "source": "黑客帝国"}  
+
+{"content":" 内容源于网络。侵了也不删，反正你没办法证明这段子是你写的。", "author": "未知", "source": "知乎"}
+
+{"content":" 不够优秀的人没资格装逼，而足够优秀的人却不喜欢装逼了，他们喜欢装谦逊。", "author": "银教授", "source": "知乎"}
+
